@@ -1738,5 +1738,9 @@
 	"din983d": {
 		"image": "/images/standards/din_983.png",
 		"hardwareType": "pin"
+	},
+	"iso14586": {
+		"image": "/images/standards/din_7995.png",
+		"hardwareType": "self_tapping"
 	}
 }

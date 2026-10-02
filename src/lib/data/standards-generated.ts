@@ -8,7 +8,7 @@
  * Total standards: 235
  * ISO standards: 119
  * DIN standards: 116
- * Standards with images: 156
+ * Standards with images: 157
  */
 
 import type { ISODINStandard, HardwareType } from './standards';
@@ -3035,7 +3035,8 @@ export const generatedStandards: ISODINStandard[] = [
 				code: '7995'
 			}
 		],
-		hardwareType: 'self_tapping' as HardwareType
+		hardwareType: 'self_tapping' as HardwareType,
+		image: '/images/standards/din_7995.png'
 	},
 	{
 		id: 'iso14587',
